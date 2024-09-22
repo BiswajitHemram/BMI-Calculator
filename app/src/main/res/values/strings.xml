@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">BMI Calculator App</string>
+    <string name="Background_Description">Background Image of App</string>
+    <string name="Activity1">BMI Calculator</string>
+    <string name="Activity2">BMI Chart</string>
+    <string name="Activity3">Health Tips</string>
+    <string name="Activity4">About App</string>
+    <!--  Bmi Calculator  -->
+    <string name="weight_hint">Enter weight in kg</string>
+    <string name="height_hint">Enter height in cm</string>
+    <string name="calculate_btn">Calculate BMI</string>
+    <string name="result_text">Your BMI will appear here</string>
+    <!--    BMI Chart-->
+    <string name="BMI_Chart_Title">BMI Categories</string>
+    <string name="category">Category</string>
+    <string name="BMI_Range">BMI Range</string>
+    <string name="Under_weight">Under weight</string>
+    <string name="Normal_weight">Normal weight</string>
+    <string name="Overweight">Overweight</string>
+    <string name="Obese">Obese</string>
+    <string name="Under_weight_value">Less than 18.5</string>
+    <string name="Normal_weight_value">18.5 – 24.9</string>
+    <string name="Overweight_value">25 – 29.9</string>
+    <string name="Obese_value">30 and above</string>
+    <!--    Health Tip-->
+    <string name="Health_Tips">Health Tips</string>
+    <string name="Health_Tips_heading1">1. Eat a Balanced Diet</string>
+    <string name="Health_Tips_heading2">2. Control Portion Sizes</string>
+    <string name="Health_Tips_heading3">3. Stay Hydrated</string>
+    <string name="Health_Tips_heading4">4. Exercise Regularly</string>
+    <string name="Health_Tips_heading5">5. Get Enough Sleep</string>
+    <string name="Health_Tips_heading6">6. Avoid Sugary Drinks</string>
+    <string name="Health_Tips_heading7">7. Practice Mindful Eating</string>
+    <string name="Health_Tips_heading8">8. Limit Alcohol Intake</string>
+    <string name="Health_Tips_heading9">9. Manage Stress</string>
+    <string name="Health_Tips_heading10">10. Track Your Progress</string>
+    <string name="Health_Tips_para1">Incorporate a variety of foods into your meals, including fruits, vegetables, whole grains, and lean proteins. Avoid processed foods high in sugar and unhealthy fats.</string>
+    <string name="Health_Tips_para2">Pay attention to portion sizes to avoid overeating. Try using smaller plates and serving sizes to help control the amount of food you consume.</string>
+    <string name="Health_Tips_para3">Drink plenty of water throughout the day. Staying hydrated helps with digestion, energy levels, and overall health.</string>
+    <string name="Health_Tips_para4">Aim for at least 30 minutes of moderate exercise most days of the week. Activities like walking, running, swimming, or cycling can help maintain a healthy weight.</string>
+    <string name="Health_Tips_para5">Sleep is essential for maintaining a healthy weight and overall well-being. Aim for 7–9 hours of sleep per night to support metabolism and recovery.</string>
+    <string name="Health_Tips_para6">Reduce or eliminate sugary drinks like sodas, energy drinks, and excessive juice consumption. Opt for water, herbal tea, or drinks with no added sugar.</string>
+    <string name="Health_Tips_para7">Pay attention to what and how much you eat. Eating slowly and savoring your meals can help prevent overeating and improve digestion.</string>
+    <string name="Health_Tips_para8">Keep track of your meals, exercise, and weight to stay motivated and on track with your health goals. Monitoring your progress can help you make adjustments as needed.</string>
+    <string name="Health_Tips_para9">Chronic stress can lead to unhealthy eating habits. Incorporate stress-relief techniques like meditation, yoga, or deep breathing to maintain mental and physical health.</string>
+    <string name="Health_Tips_para10">Keep track of your meals, exercise, and weight to stay motivated and on track with your health goals. Monitoring your progress can help you make adjustments as needed.</string>
+
+    <!--  About App  -->
+    <string name="about_app">About the App</string>
+    <string name="about_app_heading1">Welcome to the BMI Calculator App!</string>
+    <string name="about_app_heading2">Features of the App:</string>
+    <string name="about_app_heading3">What is BMI?</string>
+    <string name="about_app_heading4">Developer Information:</string>
+    <string name="about_app_para1">This app helps you calculate your Body Mass Index (BMI) and provides you with useful information to maintain a healthy BMI.</string>
+    <string name="about_app_para2">• BMI Calculator\n• BMI Chart\n• Health Tips\n• About BMI</string>
+    <string name="about_app_para3">BMI (Body Mass Index) is a measurement used to assess a person\'s body weight in relation to their height. It is a useful tool to help understand whether you are underweight, normal weight, overweight, or obese.</string>
+    <string name="about_app_para4">This app was created as a project to promote health awareness by offering a simple way to calculate and understand BMI.</string>
+</resources>
